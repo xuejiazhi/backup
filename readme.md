@@ -37,19 +37,18 @@
 ```
 #启动效果
 ```
-		DownLoading D:/work/test/edge-services/edgelog [##################################################] 100% 63/63 Done!
-		:: Begin Execute Task 【local2】::
-		DownLoading D:/work/test/edge-services/edgexport [##################################################] 100% 76/76 Done!
-		:: Begin Execute Task 【edgelog】::
-		DownLoad /edge-services/edgelog/data:[##################################################] 100% 1/1 Done!
-		:: Begin Compress BackupDataDict 【D:/backup/tmp000696D3ACD7BA78】::
-		################## Compress Backup Data Is Success! ################
+DownLoading D:/work/test/edge-services/edgelog [##################################################] 100% 63/63 Done!
+:: Begin Execute Task 【local2】::
+DownLoading D:/work/test/edge-services/edgexport [##################################################] 100% 76/76 Done!
+:: Begin Execute Task 【edgelog】::
+DownLoad /edge-services/edgelog/data:[##################################################] 100% 1/1 Done!
+:: Begin Compress BackupDataDict 【D:/backup/tmp000696D3ACD7BA78】::
+################## Compress Backup Data Is Success! ################
 ```
 ##并可以提供http下载，访问，http://{ip}:17894,列表显示打包文件,并可以进行下载。
 ```
-	-rw-rw-rw-   2021-10-25@BackupFile30C1DD94D2C6C2B8.tar.gz  10843377 byte  2021-10-25 10:16:08.4752685 +0800 CST
-	-rw-rw-rw-   2021-10-25@BackupFile617A4B500AC5728D.tar.gz  10843360 byte  2021-10-25 10:05:40.2144843 +0800 CST
-
-	-rw-rw-rw-   2021-10-25@BackupFileCF3D28798CF3C0F2.tar.gz  10843416 byte  2021-10-25 10:10:54.1849612 +0800 CST
+-rw-rw-rw-   2021-10-25@BackupFile30C1DD94D2C6C2B8.tar.gz  10843377 byte  2021-10-25 10:16:08.4752685 +0800 CST
+-rw-rw-rw-   2021-10-25@BackupFile617A4B500AC5728D.tar.gz  10843360 byte  2021-10-25 10:05:40.2144843 +0800 CST
+-rw-rw-rw-   2021-10-25@BackupFileCF3D28798CF3C0F2.tar.gz  10843416 byte  2021-10-25 10:10:54.1849612 +0800 CST
 
 ```
